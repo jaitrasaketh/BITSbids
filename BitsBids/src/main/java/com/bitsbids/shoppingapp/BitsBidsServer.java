@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class BitsBidsServer {
 	public static void main(String[] args) {
 		try {
-			SendEmail.sendmail("divyateja2004@gmail.com", "App was successfully deployed", "You are receiving this mail from OOPSIE");
+			SendEmail.sendmail("aashreyrachaputi@gmail.com", "App was successfully deployed", "You are receiving this mail from BITSBIDS");
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
