@@ -14,6 +14,6 @@ public class BitsBidsServer {
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
-		SpringApplication.run(OopsieServer.class, args);
+		SpringApplication.run(BitsBidsServer.class, args);
 	}
 }
