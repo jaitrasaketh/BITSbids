@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./profile-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="profile-page">
+      <img class="image-9-icon1" alt="" src="./public/image-5@2x.png" />
+
+      <div class="my-account2">My Account</div>
+      <img class="image-10-icon" alt="" src="./public/image-11@2x.png" />
+
+      <div class="name">Name:</div>
+      <div class="profile-page-child"></div>
+      <div class="id-number">ID Number:</div>
+      <div class="wallet-balance">Wallet Balance:</div>
+      <div class="profile-page-item"></div>
+      <img class="profile-page-inner" alt="" src="./public/line-20.svg" />
+
+      <div class="profile-page-child1"></div>
+      <div class="logout-button" id="logoutButtonContainer">
+        <b class="logout">Logout</b>
+      </div>
+      <div class="header3">
+        <img class="image-4-icon3" alt="" src="./public/image-4@2x.png" />
+
+        <img
+          class="profile-button-icon3"
+          alt=""
+          src="./public/profile-button.svg"
+        />
+
+        <div class="home-button3" id="hOMEBUTTONContainer">
+          <div class="home3">HOME</div>
+        </div>
+        <div class="sell-button3" id="sELLBUTTONContainer">
+          <div class="sell3">SELL</div>
+        </div>
+        <img
+          class="bitsbids-logo-14"
+          alt=""
+          src="./public/bitsbids-logo-11@2x.png"
+        />
+      </div>
+      <div class="live-bids-button2" id="liveBidsButton">
+        <div class="live-bids4">Live Bids</div>
+      </div>
+      <div class="my-account-button2">
+        <div class="live-bids4">My Account</div>
+      </div>
+      <div class="wishlist-button2" id="wishlistButtonContainer">
+        <div class="live-bids4">Wishlist</div>
+      </div>
+    </div>
+
+    <script>
+      var logoutButtonContainer = document.getElementById("logoutButtonContainer");
+      if (logoutButtonContainer) {
+        logoutButtonContainer.addEventListener("click", function (e) {
+          window.location.href = "./landing-page.html";
+        });
+      }
+      
+      var hOMEBUTTONContainer = document.getElementById("hOMEBUTTONContainer");
+      if (hOMEBUTTONContainer) {
+        hOMEBUTTONContainer.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+      
+      var sELLBUTTONContainer = document.getElementById("sELLBUTTONContainer");
+      if (sELLBUTTONContainer) {
+        sELLBUTTONContainer.addEventListener("click", function (e) {
+          window.location.href = "./sell-page.html";
+        });
+      }
+      
+      var liveBidsButton = document.getElementById("liveBidsButton");
+      if (liveBidsButton) {
+        liveBidsButton.addEventListener("click", function (e) {
+          window.location.href = "./live-bids.html";
+        });
+      }
+      
+      var wishlistButtonContainer = document.getElementById(
+        "wishlistButtonContainer"
+      );
+      if (wishlistButtonContainer) {
+        wishlistButtonContainer.addEventListener("click", function (e) {
+          window.location.href = "wislist.html";
+        });
+      }
+      </script>
+  </body>
+</html>

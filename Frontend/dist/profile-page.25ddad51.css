@@ -1,0 +1,238 @@
+.image-9-icon1 {
+  object-fit: cover;
+  width: 26.31rem;
+  height: 8.31rem;
+  position: absolute;
+  top: 77.44rem;
+  left: 0;
+}
+
+.my-account2 {
+  font-size: var(--font-size-36xl);
+  letter-spacing: -.02em;
+  text-align: left;
+  line-height: 120%;
+  position: absolute;
+  top: 38.94rem;
+  left: 5.81rem;
+}
+
+.image-10-icon {
+  object-fit: cover;
+  opacity: .4;
+  width: 90rem;
+  height: 24.56rem;
+  position: absolute;
+  top: 8.13rem;
+  left: 0;
+}
+
+.name {
+  font-size: var(--font-size-16xl);
+  line-height: 130%;
+  position: absolute;
+  top: 45.94rem;
+  left: 5.56rem;
+}
+
+.profile-page-child {
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  mix-blend-mode: linear-burn;
+  width: 38.31rem;
+  height: .06rem;
+  position: absolute;
+  top: 49.09rem;
+  left: 5.78rem;
+}
+
+.id-number, .wallet-balance {
+  font-size: var(--font-size-16xl);
+  line-height: 130%;
+  position: absolute;
+  top: 51.44rem;
+  left: 5.56rem;
+}
+
+.wallet-balance {
+  top: 56.94rem;
+  left: 5.81rem;
+}
+
+.profile-page-inner, .profile-page-item {
+  mix-blend-mode: linear-burn;
+  height: .06rem;
+  position: absolute;
+}
+
+.profile-page-item {
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 38.31rem;
+  top: 54.59rem;
+  left: 5.78rem;
+}
+
+.profile-page-inner {
+  width: 38.25rem;
+  top: 59.72rem;
+  left: 5.81rem;
+}
+
+.profile-page-child1 {
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89.19rem;
+  height: .06rem;
+  position: absolute;
+  top: 36.34rem;
+  left: .84rem;
+}
+
+.logout {
+  line-height: 130%;
+  position: absolute;
+  top: .94rem;
+  left: 3.13rem;
+}
+
+.logout-button {
+  border-radius: var(--br-81xl);
+  background-color: var(--color-black);
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+  width: 11.69rem;
+  height: 3.81rem;
+  position: absolute;
+  top: 65.81rem;
+  left: 5.56rem;
+  overflow: hidden;
+}
+
+.image-4-icon3 {
+  object-fit: cover;
+  width: 5.63rem;
+  height: 5.63rem;
+  position: absolute;
+  top: 1.25rem;
+  left: 3.75rem;
+}
+
+.profile-button-icon3 {
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  overflow: hidden;
+}
+
+.home3 {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: .69rem;
+}
+
+.home-button3 {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  overflow: hidden;
+}
+
+.sell3 {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: 1.25rem;
+}
+
+.sell-button3 {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 72.5rem;
+  overflow: hidden;
+}
+
+.bitsbids-logo-14 {
+  object-fit: cover;
+  width: 5.31rem;
+  height: 5.31rem;
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+}
+
+.header3 {
+  width: 90rem;
+  height: 8.13rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.live-bids4 {
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 22px);
+  line-height: 130%;
+  display: flex;
+  position: absolute;
+  top: .13rem;
+  left: .69rem;
+}
+
+.live-bids-button2, .my-account-button2 {
+  width: 8.75rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 33.63rem;
+}
+
+.live-bids-button2 {
+  background-color: var(--color-white);
+  cursor: pointer;
+  left: 9.63rem;
+  overflow: hidden;
+}
+
+.my-account-button2 {
+  left: .88rem;
+}
+
+.my-account-button2, .profile-page, .wishlist-button2 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+
+.wishlist-button2 {
+  cursor: pointer;
+  width: 8.75rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 33.63rem;
+  left: 18.38rem;
+}
+
+.profile-page {
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+  width: 100%;
+  height: 88.13rem;
+  position: relative;
+}
+
+/*# sourceMappingURL=profile-page.25ddad51.css.map */

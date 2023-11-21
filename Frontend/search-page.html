@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./search-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="search-page">
+      <div class="page-heading2">
+        <div class="search-results">Search Results</div>
+        <div class="divider2"></div>
+        <div class="page-heading-child"></div>
+        <img
+          class="icon-magnifying-glass"
+          alt=""
+          src="./public/-icon-magnifying-glass.svg"
+        />
+
+        <div class="search-here">Search Here</div>
+      </div>
+      <div class="header6">
+        <img class="image-4-icon6" alt="" src="./public/image-4@2x.png" />
+
+        <img
+          class="profile-button-icon6"
+          alt=""
+          src="./public/profile-button.svg"
+          id="profileButton"
+        />
+
+        <div class="home-button6" id="hOMEBUTTONContainer">
+          <div class="home6">HOME</div>
+        </div>
+        <div class="sell-button6" id="sELLBUTTONContainer">
+          <div class="sell7">SELL</div>
+        </div>
+        <img
+          class="bitsbids-logo-17"
+          alt=""
+          src="./public/bitsbids-logo-11@2x.png"
+        />
+      </div>
+      <div class="products6">
+        <div class="heirloom-tomato2">Heirloom tomato</div>
+        <div class="lb6">$5.99 / lb</div>
+        <img
+          class="ed-o-neil-avvdzlhdowa-unsplash-icon2"
+          alt=""
+          src="./public/edoneilavvdzlhdowaunsplash-11@2x.png"
+        />
+      </div>
+      <div class="products7">
+        <div class="heirloom-tomato2">Organic ginger</div>
+        <div class="lb6">$12.99 / lb</div>
+        <img
+          class="ed-o-neil-avvdzlhdowa-unsplash-icon2"
+          alt=""
+          src="./public/noonbrewzicb4-ekmakunsplash2@2x.png"
+        />
+      </div>
+      <img class="image-8-icon3" alt="" src="./public/image-5@2x.png" />
+    </div>
+
+    <script>
+      var profileButton = document.getElementById("profileButton");
+      if (profileButton) {
+        profileButton.addEventListener("click", function (e) {
+          window.location.href = "./profile-page.html";
+        });
+      }
+      
+      var hOMEBUTTONContainer = document.getElementById("hOMEBUTTONContainer");
+      if (hOMEBUTTONContainer) {
+        hOMEBUTTONContainer.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+      
+      var sELLBUTTONContainer = document.getElementById("sELLBUTTONContainer");
+      if (sELLBUTTONContainer) {
+        sELLBUTTONContainer.addEventListener("click", function (e) {
+          window.location.href = "./sell-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>

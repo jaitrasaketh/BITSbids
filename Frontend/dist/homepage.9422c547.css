@@ -1,0 +1,261 @@
+.welcome-to-bitsbids {
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 898px);
+  font-size: 2.81rem;
+  font-weight: 800;
+  line-height: 130%;
+  display: flex;
+  position: absolute;
+  top: 2.25rem;
+  left: 28.06rem;
+}
+
+.image-4-icon7 {
+  object-fit: cover;
+  width: 5.63rem;
+  height: 5.63rem;
+  position: absolute;
+  top: 1.25rem;
+  left: 3.75rem;
+}
+
+.profile-button-icon7 {
+  cursor: pointer;
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  overflow: hidden;
+}
+
+.home7 {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: .69rem;
+}
+
+.home-button7 {
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  overflow: hidden;
+}
+
+.sell8 {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: 1.25rem;
+}
+
+.sell-button7 {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 72.5rem;
+  overflow: hidden;
+}
+
+.bitsbids-logo-18 {
+  object-fit: cover;
+  width: 5.31rem;
+  height: 5.31rem;
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+}
+
+.header7, .latest-bids {
+  font-family: var(--font-poppins);
+  text-align: center;
+  position: absolute;
+}
+
+.header7 {
+  width: 90rem;
+  height: 8.13rem;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.latest-bids {
+  font-size: var(--font-size-16xl);
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 898px);
+  font-weight: 800;
+  line-height: 130%;
+  display: flex;
+  top: 47.06rem;
+  left: 28.06rem;
+}
+
+.image-5-icon2, .image-6-icon {
+  object-fit: cover;
+  width: 26.31rem;
+  height: 8.31rem;
+  position: absolute;
+  top: 145.63rem;
+  left: 0;
+}
+
+.image-6-icon {
+  opacity: .65;
+  width: 109.38rem;
+  height: 35.31rem;
+  top: 8.13rem;
+}
+
+.organic-ginger4 {
+  font-weight: 600;
+  line-height: 130%;
+  bottom: 6.13rem;
+}
+
+.grown-in-huntington, .lb8, .organic-ginger4 {
+  position: absolute;
+  left: 1.5rem;
+}
+
+.lb8 {
+  color: var(--color-darkolivegreen);
+  font-weight: 600;
+  line-height: 130%;
+  bottom: 4.25rem;
+}
+
+.grown-in-huntington {
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+  line-height: 150%;
+  bottom: 1.75rem;
+}
+
+.noonbrew-zicb4-ekmak-unsplash-icon4 {
+  object-fit: cover;
+  width: 100%;
+  max-width: 100%;
+  height: calc(100% - 148px);
+  max-height: 100%;
+  position: absolute;
+  inset: 0 0 9.25rem;
+  overflow: hidden;
+}
+
+.products10, .products11, .products12, .products13, .products14, .products15, .products16, .products8, .products9 {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-100);
+  border: 2px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  cursor: pointer;
+  width: calc(100% - 1097px);
+  height: 26rem;
+  position: absolute;
+  top: 53.31rem;
+  left: 34.81rem;
+  right: 33.75rem;
+  overflow: hidden;
+}
+
+.products10, .products11, .products12, .products13, .products14, .products15, .products16, .products9 {
+  left: 11.56rem;
+  right: 57rem;
+}
+
+.products10, .products11, .products12, .products13, .products14, .products15, .products16 {
+  left: 58.06rem;
+  right: 10.5rem;
+}
+
+.products11, .products12, .products13, .products14, .products15, .products16 {
+  top: 82.75rem;
+  left: 34.81rem;
+  right: 33.75rem;
+}
+
+.products12, .products13, .products14, .products15, .products16 {
+  left: 11.56rem;
+  right: 57rem;
+}
+
+.products13, .products14, .products15, .products16 {
+  left: 58.06rem;
+  right: 10.5rem;
+}
+
+.products14, .products15, .products16 {
+  top: 111.31rem;
+  left: 34.81rem;
+  right: 33.75rem;
+}
+
+.products15, .products16 {
+  left: 11.56rem;
+  right: 57rem;
+}
+
+.products16 {
+  left: 58.06rem;
+  right: 10.5rem;
+}
+
+.homepage-child {
+  border-radius: var(--br-11xl);
+  mix-blend-mode: hard-light;
+  background-color: #ecebeb;
+  width: 32rem;
+  height: 3.69rem;
+  position: absolute;
+  top: 38.06rem;
+  left: 29rem;
+}
+
+.icon-magnifying-glass1 {
+  width: 1.39%;
+  max-width: 100%;
+  height: .8%;
+  max-height: 100%;
+  position: absolute;
+  inset: 25.16% 34.1% 74.04% 64.51%;
+  overflow: hidden;
+}
+
+.search-here1 {
+  font-size: .94rem;
+  line-height: 130%;
+  font-family: var(--font-poppins);
+  color: #7c7878;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 14.19rem;
+  height: 1.56rem;
+  display: flex;
+  position: absolute;
+  top: 39.13rem;
+  left: 26.75rem;
+}
+
+.homepage {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+  width: 100%;
+  height: 156.25rem;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=homepage.9422c547.css.map */

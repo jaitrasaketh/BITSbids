@@ -1,0 +1,214 @@
+.image-9-icon1 {
+  position: absolute;
+  top: 77.44rem;
+  left: 0;
+  width: 26.31rem;
+  height: 8.31rem;
+  object-fit: cover;
+}
+.my-account2 {
+  position: absolute;
+  top: 38.94rem;
+  left: 5.81rem;
+  font-size: var(--font-size-36xl);
+  letter-spacing: -0.02em;
+  line-height: 120%;
+  text-align: left;
+}
+.image-10-icon {
+  position: absolute;
+  top: 8.13rem;
+  left: 0;
+  width: 90rem;
+  height: 24.56rem;
+  object-fit: cover;
+  opacity: 0.4;
+}
+.name {
+  position: absolute;
+  top: 45.94rem;
+  left: 5.56rem;
+  font-size: var(--font-size-16xl);
+  line-height: 130%;
+}
+.profile-page-child {
+  position: absolute;
+  top: 49.09rem;
+  left: 5.78rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 38.31rem;
+  height: 0.06rem;
+  mix-blend-mode: linear-burn;
+}
+.id-number,
+.wallet-balance {
+  position: absolute;
+  top: 51.44rem;
+  left: 5.56rem;
+  font-size: var(--font-size-16xl);
+  line-height: 130%;
+}
+.wallet-balance {
+  top: 56.94rem;
+  left: 5.81rem;
+}
+.profile-page-inner,
+.profile-page-item {
+  position: absolute;
+  height: 0.06rem;
+  mix-blend-mode: linear-burn;
+}
+.profile-page-item {
+  top: 54.59rem;
+  left: 5.78rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 38.31rem;
+}
+.profile-page-inner {
+  top: 59.72rem;
+  left: 5.81rem;
+  width: 38.25rem;
+}
+.profile-page-child1 {
+  position: absolute;
+  top: 36.34rem;
+  left: 0.84rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89.19rem;
+  height: 0.06rem;
+}
+.logout {
+  position: absolute;
+  top: 0.94rem;
+  left: 3.13rem;
+  line-height: 130%;
+}
+.logout-button {
+  position: absolute;
+  top: 65.81rem;
+  left: 5.56rem;
+  border-radius: var(--br-81xl);
+  background-color: var(--color-black);
+  width: 11.69rem;
+  height: 3.81rem;
+  overflow: hidden;
+  cursor: pointer;
+  font-size: var(--font-size-6xl);
+  color: var(--color-white);
+}
+.image-4-icon3 {
+  position: absolute;
+  top: 1.25rem;
+  left: 3.75rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  object-fit: cover;
+}
+.profile-button-icon3 {
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  width: 5rem;
+  height: 5rem;
+  overflow: hidden;
+}
+.home3 {
+  position: absolute;
+  top: 0.13rem;
+  left: 0.69rem;
+  line-height: 130%;
+}
+.home-button3 {
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.sell3 {
+  position: absolute;
+  top: 0.13rem;
+  left: 1.25rem;
+  line-height: 130%;
+}
+.sell-button3 {
+  position: absolute;
+  top: 3.13rem;
+  left: 72.5rem;
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.bitsbids-logo-14 {
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+  width: 5.31rem;
+  height: 5.31rem;
+  object-fit: cover;
+}
+.header3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 8.13rem;
+  overflow: hidden;
+}
+.live-bids4 {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 0.13rem;
+  left: 0.69rem;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.live-bids-button2,
+.my-account-button2 {
+  position: absolute;
+  top: 33.63rem;
+  width: 8.75rem;
+  height: 1.88rem;
+}
+.live-bids-button2 {
+  left: 9.63rem;
+  background-color: var(--color-white);
+  overflow: hidden;
+  cursor: pointer;
+}
+.my-account-button2 {
+  left: 0.88rem;
+}
+.my-account-button2,
+.profile-page,
+.wishlist-button2 {
+  background-color: var(--color-white);
+  overflow: hidden;
+}
+.wishlist-button2 {
+  position: absolute;
+  top: 33.63rem;
+  left: 18.38rem;
+  width: 8.75rem;
+  height: 1.88rem;
+  cursor: pointer;
+}
+.profile-page {
+  position: relative;
+  width: 100%;
+  height: 88.13rem;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}
