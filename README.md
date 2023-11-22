@@ -1,7 +1,7 @@
 # BITSbids
 CS F213 Project.
 A webapp that can run on desktop and mobiles, to make a bidding platform for selling used products (electronic gadgets, books, sports item etc.) from students to students. The salient features includes: 
-Product search (better if contextual)
+Product search 
 Bidding on a product till a deadline 
 Private messaging with seller. 
 Every account is through BITS email SSO and outsiders are not allowed. 
