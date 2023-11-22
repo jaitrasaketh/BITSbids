@@ -1,0 +1,219 @@
+.sell5 {
+  position: absolute;
+  top: 43.13rem;
+  left: 28.06rem;
+  font-size: 4rem;
+  line-height: 130%;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 33.88rem;
+}
+.sell-page-child,
+.sell-page-item {
+  position: absolute;
+  height: calc(100% - 1929px);
+  top: 58.78rem;
+  bottom: 61.78rem;
+  left: 33.97rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 44.38rem;
+}
+.sell-page-item {
+  top: 66.34rem;
+  bottom: 54.22rem;
+}
+.sell-page-inner {
+  top: 73.91rem;
+  bottom: 46.66rem;
+  left: 34rem;
+  max-height: 100%;
+  width: 44.31rem;
+}
+.line-icon,
+.sell-page-child1,
+.sell-page-inner {
+  position: absolute;
+  height: calc(100% - 1929px);
+}
+.sell-page-child1 {
+  top: 81.84rem;
+  bottom: 38.72rem;
+  left: 33.97rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 44.38rem;
+}
+.line-icon {
+  top: 91.09rem;
+  bottom: 29.47rem;
+  left: 34rem;
+  max-height: 100%;
+  width: 44.31rem;
+}
+.image-7-icon {
+  position: absolute;
+  top: 8.13rem;
+  left: calc(50% - 720px);
+  width: 90rem;
+  height: 30.63rem;
+  object-fit: cover;
+  opacity: 0.4;
+}
+.rectangle-div {
+  position: absolute;
+  height: calc(100% - 1520px);
+  top: 56.88rem;
+  bottom: 38.13rem;
+  left: 7rem;
+  border-radius: 20px;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 21.06rem;
+}
+.upload {
+  position: absolute;
+  height: calc(100% - 1878px);
+  top: 68.13rem;
+  left: 12.94rem;
+  font-size: var(--font-size-11xl);
+  display: inline-block;
+  width: 9.19rem;
+}
+.span {
+  color: var(--color-orangered);
+}
+.product-images-container,
+.product-name-container {
+  position: absolute;
+  top: 51.88rem;
+  left: 34rem;
+}
+.product-images-container {
+  left: 10.75rem;
+}
+.time-limit-container {
+  position: absolute;
+  top: 59.13rem;
+  left: 34rem;
+}
+.increments,
+.product-name-container1 {
+  position: absolute;
+  top: 66.88rem;
+  left: 34rem;
+}
+.product-name-container1 {
+  top: 74.44rem;
+}
+.image-4-icon5,
+.product-name-container2 {
+  position: absolute;
+  top: 81.88rem;
+  left: 34rem;
+}
+.image-4-icon5 {
+  top: 1.25rem;
+  left: 3.75rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  object-fit: cover;
+}
+.profile-button-icon5 {
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  width: 5rem;
+  height: 5rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.home5 {
+  position: absolute;
+  top: 0.13rem;
+  left: 0.69rem;
+  line-height: 130%;
+}
+.home-button5 {
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.sell6 {
+  position: absolute;
+  top: 0.13rem;
+  left: 1.25rem;
+  line-height: 130%;
+}
+.sell-button5 {
+  position: absolute;
+  top: 3.13rem;
+  left: 72.5rem;
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.bitsbids-logo-16 {
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+  width: 5.31rem;
+  height: 5.31rem;
+  object-fit: cover;
+}
+.header5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 8.13rem;
+  overflow: hidden;
+  text-align: center;
+}
+.bits-band-icon4 {
+  position: absolute;
+  bottom: 2rem;
+  left: 0;
+  width: 26.31rem;
+  height: 8.31rem;
+  object-fit: cover;
+}
+.bid-now2 {
+  position: absolute;
+  top: 1.5rem;
+  left: 18.63rem;
+  line-height: 130%;
+  font-weight: 600;
+}
+.bid-button2 {
+  position: absolute;
+  top: calc(50% + 576px);
+  left: 34rem;
+  background-color: var(--color-gray-100);
+  width: 44.31rem;
+  height: 5.25rem;
+  overflow: hidden;
+  font-size: var(--font-size-9xl);
+  color: var(--color-white);
+}
+.sell-page {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 120.63rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

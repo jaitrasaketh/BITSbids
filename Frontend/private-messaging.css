@@ -1,0 +1,153 @@
+.private-messaging-child {
+  position: absolute;
+  top: 8.13rem;
+  left: 0;
+  background-color: var(--color-black);
+  width: 90rem;
+  height: 6.56rem;
+}
+.image-8-icon {
+  position: absolute;
+  top: 10.94rem;
+  left: 52.94rem;
+  width: 1.25rem;
+  height: 0.94rem;
+  object-fit: cover;
+}
+.private-messaging-item {
+  position: absolute;
+  top: 48.5rem;
+  left: 1.81rem;
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 86.56rem;
+  height: 4.88rem;
+}
+.back-button-icon {
+  position: absolute;
+  top: 9.56rem;
+  left: 2.56rem;
+  border-radius: var(--br-11xl);
+  width: 3.75rem;
+  height: 3.75rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.seller-32145 {
+  position: absolute;
+  top: 10.19rem;
+  left: calc(50% - 109px);
+  line-height: 130%;
+}
+.image-4-icon4 {
+  position: absolute;
+  top: 1.25rem;
+  left: 3.75rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  object-fit: cover;
+}
+.profile-button-icon4 {
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  width: 5rem;
+  height: 5rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.home4 {
+  position: absolute;
+  top: 0.13rem;
+  left: 0.69rem;
+  line-height: 130%;
+}
+.home-button4 {
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.sell4 {
+  position: absolute;
+  top: 0.13rem;
+  left: 1.25rem;
+  line-height: 130%;
+}
+.header4,
+.sell-button4 {
+  position: absolute;
+  overflow: hidden;
+}
+.sell-button4 {
+  top: 3.13rem;
+  left: 72.5rem;
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  cursor: pointer;
+}
+.header4 {
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 8.13rem;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.bitsbids-logo-15 {
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+  width: 5.31rem;
+  height: 5.31rem;
+  object-fit: cover;
+}
+.send {
+  position: absolute;
+  height: calc(100% - 32px);
+  top: 1rem;
+  left: calc(50% - 10px);
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.19rem;
+}
+.image-10-icon1 {
+  position: absolute;
+  height: calc(100% - 34px);
+  top: 1.06rem;
+  bottom: 1.06rem;
+  left: calc(50% - 31px);
+  max-height: 100%;
+  width: 1.06rem;
+  object-fit: cover;
+}
+.send-parent {
+  position: absolute;
+  top: calc(50% + 333px);
+  right: 3.31rem;
+  border-radius: 25px;
+  background-color: var(--color-black);
+  width: 6.88rem;
+  height: 3.13rem;
+  overflow: hidden;
+  font-size: 0.81rem;
+}
+.private-messaging {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 57.13rem;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  font-family: var(--font-poppins);
+}

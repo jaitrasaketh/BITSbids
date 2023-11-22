@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./live-bids.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="live-bids1">
+      <img class="image-11-icon1" alt="" src="./public/image-11@2x.png" />
+
+      <div class="live-bids-child"></div>
+      <div class="products3" id="productsContainer">
+        <div class="heirloom-tomato1">Heirloom tomato</div>
+        <div class="div5">$5.99</div>
+        <div class="lb3">$5.99 / lb</div>
+        <img
+          class="ed-o-neil-avvdzlhdowa-unsplash-icon1"
+          alt=""
+          src="./public/edoneilavvdzlhdowaunsplash-1@2x.png"
+        />
+      </div>
+      <div class="products4" id="productsContainer1">
+        <div class="heirloom-tomato1">Organic ginger</div>
+        <div class="lb3">$12.99 / lb</div>
+        <div class="div5">$6.50</div>
+        <img
+          class="ed-o-neil-avvdzlhdowa-unsplash-icon1"
+          alt=""
+          src="./public/noonbrewzicb4-ekmakunsplash1@2x.png"
+        />
+      </div>
+      <div class="products5" id="productsContainer2">
+        <div class="heirloom-tomato1">Sweet onion</div>
+        <div class="lb3">$2.99 / lb</div>
+        <div class="div5">$14.95</div>
+        <img
+          class="ed-o-neil-avvdzlhdowa-unsplash-icon1"
+          alt=""
+          src="./public/k80-fkphulvmunsplash-2@2x.png"
+        />
+      </div>
+      <div class="page-heading1">
+        <div class="live-bids2">Live Bids</div>
+        <div class="divider1"></div>
+      </div>
+      <div class="live-bids-button1">
+        <div class="live-bids3">Live Bids</div>
+      </div>
+      <div class="my-account-button1">
+        <div class="live-bids3">My Account</div>
+      </div>
+      <div class="wishlist-button1" id="wishlistButtonContainer">
+        <div class="live-bids3">Wishlist</div>
+      </div>
+      <div class="header2">
+        <img class="image-4-icon2" alt="" src="./public/image-4@2x.png" />
+
+        <img
+          class="profile-button-icon2"
+          alt=""
+          src="./public/profile-button.svg"
+          id="profileButton"
+        />
+
+        <div class="home-button2" id="hOMEBUTTONContainer">
+          <div class="home2">HOME</div>
+        </div>
+        <div class="sell-button2" id="sELLBUTTONContainer">
+          <div class="sell2">SELL</div>
+        </div>
+        <img
+          class="bitsbids-logo-13"
+          alt=""
+          src="./public/bitsbids-logo-11@2x.png"
+        />
+      </div>
+      <img class="bits-band-icon2" alt="" src="./public/bits-band@2x.png" />
+    </div>
+
+    <script>
+      var productsContainer = document.getElementById("productsContainer");
+      if (productsContainer) {
+        productsContainer.addEventListener("click", function (e) {
+          window.location.href = "./product-page.html";
+        });
+      }
+      
+      var productsContainer1 = document.getElementById("productsContainer1");
+      if (productsContainer1) {
+        productsContainer1.addEventListener("click", function (e) {
+          window.location.href = "./product-page.html";
+        });
+      }
+      
+      var productsContainer2 = document.getElementById("productsContainer2");
+      if (productsContainer2) {
+        productsContainer2.addEventListener("click", function (e) {
+          window.location.href = "./product-page.html";
+        });
+      }
+      
+      var wishlistButtonContainer = document.getElementById(
+        "wishlistButtonContainer"
+      );
+      if (wishlistButtonContainer) {
+        wishlistButtonContainer.addEventListener("click", function (e) {
+          window.location.href = "wislist.html";
+        });
+      }
+      
+      var profileButton = document.getElementById("profileButton");
+      if (profileButton) {
+        profileButton.addEventListener("click", function (e) {
+          window.location.href = "./profile-page.html";
+        });
+      }
+      
+      var hOMEBUTTONContainer = document.getElementById("hOMEBUTTONContainer");
+      if (hOMEBUTTONContainer) {
+        hOMEBUTTONContainer.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+      
+      var sELLBUTTONContainer = document.getElementById("sELLBUTTONContainer");
+      if (sELLBUTTONContainer) {
+        sELLBUTTONContainer.addEventListener("click", function (e) {
+          window.location.href = "./sell-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>

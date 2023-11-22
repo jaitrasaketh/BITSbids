@@ -1,0 +1,53 @@
+.log-in {
+  position: absolute;
+  bottom: 24.25rem;
+  left: 53.56rem;
+  display: inline-block;
+  width: 11rem;
+  height: 5.31rem;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.bitsbids-logo-1 {
+  position: absolute;
+  top: 7.81rem;
+  left: 6.88rem;
+  width: 31.75rem;
+  height: 31.94rem;
+  object-fit: cover;
+}
+.image-9-icon,
+.login-with-google {
+  position: absolute;
+  top: 0.75rem;
+  left: 13.13rem;
+  cursor: pointer;
+}
+.image-9-icon {
+  top: 0.31rem;
+  left: 6.94rem;
+  width: 3.63rem;
+  height: 3.72rem;
+  object-fit: cover;
+}
+.bid-button {
+  position: absolute;
+  top: calc(50% + 45px);
+  right: 12.63rem;
+  background-color: var(--color-white);
+  box-shadow: 3px 7px 4px rgba(0, 0, 0, 0.25);
+  width: 36.63rem;
+  height: 4.38rem;
+  overflow: hidden;
+  font-size: var(--font-size-11xl);
+}
+.landing-page {
+  position: relative;
+  background-color: #fcfcff;
+  width: 100%;
+  height: 46.88rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: 3.75rem;
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

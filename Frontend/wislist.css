@@ -1,0 +1,231 @@
+.image-11-icon {
+  position: absolute;
+  top: 8.13rem;
+  left: calc(50% - 720px);
+  width: 90rem;
+  height: 24.56rem;
+  object-fit: cover;
+  opacity: 0.4;
+}
+.wislist-child {
+  position: absolute;
+  top: 36.09rem;
+  left: 0.41rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89.19rem;
+  height: 0.06rem;
+}
+.heirloom-tomato {
+  top: 1.5rem;
+  left: 11.5rem;
+  font-family: var(--font-poppins);
+}
+.div2,
+.heirloom-tomato,
+.lb {
+  position: absolute;
+  line-height: 130%;
+  font-weight: 600;
+}
+.div2 {
+  top: 1.5rem;
+  right: 1.5rem;
+  text-align: right;
+}
+.lb {
+  top: 3.38rem;
+  left: 11.5rem;
+}
+.ed-o-neil-avvdzlhdowa-unsplash-icon {
+  position: absolute;
+  height: calc(100% + 1px);
+  top: 0;
+  bottom: -0.06rem;
+  left: 0;
+  max-height: 100%;
+  width: 10rem;
+  object-fit: cover;
+}
+.products,
+.products1 {
+  width: calc(100% - 192px);
+  right: 6rem;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-100);
+  border: 2px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 9.94rem;
+  overflow: hidden;
+  cursor: pointer;
+  font-family: var(--font-inter);
+}
+.products {
+  position: absolute;
+  top: 48.56rem;
+  left: 6rem;
+}
+.products1 {
+  top: 60.44rem;
+}
+.products1,
+.products2,
+.wishlist {
+  position: absolute;
+  left: 6rem;
+}
+.products2 {
+  width: calc(100% - 192px);
+  top: 72.31rem;
+  right: 6rem;
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-100);
+  border: 2px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 9.94rem;
+  overflow: hidden;
+  cursor: pointer;
+  font-family: var(--font-inter);
+}
+.wishlist {
+  bottom: 1rem;
+  letter-spacing: -0.02em;
+  line-height: 120%;
+}
+.divider {
+  position: absolute;
+  width: calc(100% - 190px);
+  right: 5.94rem;
+  bottom: -0.06rem;
+  left: 5.94rem;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-top: 2px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  height: 0.13rem;
+}
+.page-heading {
+  position: absolute;
+  width: 100%;
+  top: 37.88rem;
+  right: 0;
+  left: 0;
+  background-color: var(--color-white);
+  height: 9.31rem;
+  overflow: hidden;
+  font-size: var(--font-size-36xl);
+}
+.live-bids {
+  position: absolute;
+  width: calc(100% - 22px);
+  top: 0.13rem;
+  left: 0.69rem;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.live-bids-button,
+.my-account-button,
+.wishlist-button {
+  position: absolute;
+  top: 33.38rem;
+  left: 9.19rem;
+  background-color: var(--color-white);
+  width: 8.75rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+  text-align: center;
+}
+.my-account-button,
+.wishlist-button {
+  left: 0.44rem;
+}
+.wishlist-button {
+  left: 17.94rem;
+}
+.image-4-icon1 {
+  position: absolute;
+  top: 1.25rem;
+  left: 3.75rem;
+  width: 5.63rem;
+  height: 5.63rem;
+  object-fit: cover;
+}
+.profile-button-icon1 {
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  width: 5rem;
+  height: 5rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.home1 {
+  position: absolute;
+  top: 0.13rem;
+  left: 0.69rem;
+  line-height: 130%;
+}
+.home-button1 {
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.sell1 {
+  position: absolute;
+  top: 0.13rem;
+  left: 1.25rem;
+  line-height: 130%;
+}
+.sell-button1 {
+  position: absolute;
+  top: 3.13rem;
+  left: 72.5rem;
+  background-color: var(--color-white);
+  width: 5rem;
+  height: 1.88rem;
+  overflow: hidden;
+  cursor: pointer;
+}
+.bitsbids-logo-12 {
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+  width: 5.31rem;
+  height: 5.31rem;
+  object-fit: cover;
+}
+.header1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 90rem;
+  height: 8.13rem;
+  overflow: hidden;
+  text-align: center;
+}
+.bits-band-icon1 {
+  position: absolute;
+  bottom: 2rem;
+  left: 0;
+  width: 26.31rem;
+  height: 8.31rem;
+  object-fit: cover;
+}
+.wislist {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 108.75rem;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+}

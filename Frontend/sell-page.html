@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./sell-page.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="sell-page">
+      <b class="sell5">Sell</b>
+      <div class="sell-page-child"></div>
+      <div class="sell-page-item"></div>
+      <img class="sell-page-inner" alt="" src="./public/line-8.svg" />
+
+      <div class="sell-page-child1"></div>
+      <img class="line-icon" alt="" src="./public/line-8.svg" />
+
+      <img class="image-7-icon" alt="" src="./public/image-7@2x.png" />
+
+      <div class="rectangle-div"></div>
+      <div class="upload">+Upload</div>
+      <div class="product-name-container">
+        <span>Product Name </span>
+        <span class="span">*</span>
+      </div>
+      <div class="product-images-container">
+        <span>Product Images </span>
+        <span class="span">*</span>
+      </div>
+      <div class="time-limit-container">
+        <span>Time Limit </span>
+        <span class="span">*</span>
+      </div>
+      <div class="increments">
+        <span>Increments </span>
+        <span class="span">*</span>
+      </div>
+      <div class="product-name-container1">
+        <span>Product Name </span>
+        <span class="span">*</span>
+      </div>
+      <div class="product-name-container2">
+        <span>Product Name </span>
+        <span class="span">*</span>
+      </div>
+      <div class="header5">
+        <img class="image-4-icon5" alt="" src="./public/image-4@2x.png" />
+
+        <img
+          class="profile-button-icon5"
+          alt=""
+          src="./public/profile-button.svg"
+          id="profileButton"
+        />
+
+        <div class="home-button5" id="hOMEBUTTONContainer">
+          <div class="home5">HOME</div>
+        </div>
+        <div class="sell-button5" id="sELLBUTTONContainer">
+          <div class="sell6">SELL</div>
+        </div>
+        <img
+          class="bitsbids-logo-16"
+          alt=""
+          src="./public/bitsbids-logo-11@2x.png"
+        />
+      </div>
+      <img class="bits-band-icon4" alt="" src="./public/bits-band@2x.png" />
+
+      <div class="bid-button2">
+        <div class="bid-now2">Bid Now</div>
+      </div>
+    </div>
+
+    <script>
+      var profileButton = document.getElementById("profileButton");
+      if (profileButton) {
+        profileButton.addEventListener("click", function (e) {
+          window.location.href = "./profile-page.html";
+        });
+      }
+      
+      var hOMEBUTTONContainer = document.getElementById("hOMEBUTTONContainer");
+      if (hOMEBUTTONContainer) {
+        hOMEBUTTONContainer.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+      
+      var sELLBUTTONContainer = document.getElementById("sELLBUTTONContainer");
+      if (sELLBUTTONContainer) {
+        sELLBUTTONContainer.addEventListener("click", function (e) {
+          window.location.href = "./sell-page.html";
+        });
+      }
+      </script>
+  </body>
+</html>
