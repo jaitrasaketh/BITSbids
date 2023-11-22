@@ -8,11 +8,11 @@
     <link rel="stylesheet" href="./product-page.css" />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap"
     />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
     />
   </head>
   <body>
@@ -31,13 +31,27 @@
       <div class="div">$12.99</div>
       <div class="div1">$18.99</div>
       <div class="organic-ginger">Organic ginger</div>
-      <div class="product-description">Product Description</div>
       <div class="product-page-child"></div>
-      <img class="bits-band-icon" alt="" src="./public/bits-band@2x.png" />
+      <div class="product-description">
+        <p class="blank-line">Product Description</p>
+        <p class="blank-line">&nbsp;</p>
+        <p class="blank-line">&nbsp;</p>
+      </div>
+      <div class="product-page-item"></div>
+      <img class="image-5-icon" alt="" src="./public/image-5@2x.png" />
 
       <div class="base-price">Base Price:</div>
       <div class="highest-bid">Highest Bid:</div>
+      <div class="product-page-inner"></div>
+      <div class="rectangle-div" id="rectangle3"></div>
+      <div class="message-with-seller">Message with Seller</div>
       <div class="bid-now">Bid Now</div>
+      <div class="line-div"></div>
+      <div class="product-page-child1"></div>
+      <img class="line-icon" alt="" src="./public/line-25.svg" />
+
+      <img class="icon-heart" alt="" src="./public/-icon-heart.svg" />
+
       <div class="header">
         <img class="image-4-icon" alt="" src="./public/image-4@2x.png" />
 
@@ -60,20 +74,16 @@
           src="./public/bitsbids-logo-11@2x.png"
         />
       </div>
-      <div class="message-button" id="messageButtonContainer">
-        <div class="message-with-seller">Message with Seller</div>
-      </div>
-      <div class="bid-button1">
-        <div class="bid-now1">Bid Now</div>
-      </div>
-      <img
-        class="wishlist-button-icon"
-        alt=""
-        src="./public/wishlist-button.svg"
-      />
     </div>
 
     <script>
+      var rectangle3 = document.getElementById("rectangle3");
+      if (rectangle3) {
+        rectangle3.addEventListener("click", function (e) {
+          window.location.href = "./private-messaging.html";
+        });
+      }
+      
       var profileButton = document.getElementById("profileButton");
       if (profileButton) {
         profileButton.addEventListener("click", function (e) {
@@ -92,13 +102,6 @@
       if (sELLBUTTONContainer) {
         sELLBUTTONContainer.addEventListener("click", function (e) {
           window.location.href = "./sell-page.html";
-        });
-      }
-      
-      var messageButtonContainer = document.getElementById("messageButtonContainer");
-      if (messageButtonContainer) {
-        messageButtonContainer.addEventListener("click", function (e) {
-          window.location.href = "./private-messaging.html";
         });
       }
       </script>

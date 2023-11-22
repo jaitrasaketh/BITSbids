@@ -1,7 +1,7 @@
 .image-11-icon {
   position: absolute;
   top: 8.13rem;
-  left: calc(50% - 720px);
+  left: 0;
   width: 90rem;
   height: 24.56rem;
   object-fit: cover;
@@ -19,7 +19,6 @@
 .heirloom-tomato {
   top: 1.5rem;
   left: 11.5rem;
-  font-family: var(--font-poppins);
 }
 .div2,
 .heirloom-tomato,
@@ -144,13 +143,22 @@
 .wishlist-button {
   left: 17.94rem;
 }
-.image-4-icon1 {
+.image-4-icon1,
+.image-8-icon {
   position: absolute;
+  object-fit: cover;
+}
+.image-8-icon {
+  top: 98.13rem;
+  left: 0;
+  width: 26.31rem;
+  height: 8.31rem;
+}
+.image-4-icon1 {
   top: 1.25rem;
   left: 3.75rem;
   width: 5.63rem;
   height: 5.63rem;
-  object-fit: cover;
 }
 .profile-button-icon1 {
   position: absolute;
@@ -209,14 +217,6 @@
   height: 8.13rem;
   overflow: hidden;
   text-align: center;
-}
-.bits-band-icon1 {
-  position: absolute;
-  bottom: 2rem;
-  left: 0;
-  width: 26.31rem;
-  height: 8.31rem;
-  object-fit: cover;
 }
 .wislist {
   position: relative;

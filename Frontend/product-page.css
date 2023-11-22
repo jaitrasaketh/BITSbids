@@ -14,11 +14,13 @@
 .ginger-child,
 .ginger-item {
   position: absolute;
-  top: 31.56rem;
-  left: 4.75rem;
-  background-color: #d9d9d9;
   width: 23.38rem;
   height: 4.06rem;
+}
+.ginger-child {
+  top: 31.56rem;
+  left: 4.75rem;
+  background-color: var(--color-gainsboro-200);
 }
 .ginger-item {
   top: 30.25rem;
@@ -31,89 +33,151 @@
   left: 4.25rem;
   line-height: 130%;
 }
-.div,
-.div1,
-.ginger {
-  font-family: var(--font-inter);
-}
 .ginger {
   position: absolute;
-  top: calc(50% - 314px);
+  width: calc(100% - 964px);
+  top: 14.31rem;
+  right: 57.31rem;
   left: 2.94rem;
   border-radius: var(--br-3xs);
   background-color: var(--color-whitesmoke-100);
   border: 2px solid var(--color-gainsboro-100);
   box-sizing: border-box;
-  width: 29.75rem;
   height: 37.63rem;
   overflow: hidden;
   color: var(--color-white);
 }
-.div,
-.div1 {
-  top: calc(50% - 242px);
+.div {
+  bottom: 46.81rem;
+  left: 51.88rem;
   color: var(--color-darkolivegreen);
 }
-.div {
+.div,
+.div1,
+.organic-ginger {
   position: absolute;
-  right: 32.25rem;
   line-height: 130%;
   font-weight: 600;
 }
 .div1 {
-  right: 13.56rem;
-}
-.div1,
-.organic-ginger,
-.product-description {
-  position: absolute;
-  line-height: 130%;
-  font-weight: 600;
+  bottom: 46.81rem;
+  left: 70.56rem;
+  color: var(--color-darkolivegreen);
 }
 .organic-ginger {
-  top: calc(50% - 297px);
-  right: 32.13rem;
+  bottom: 49.69rem;
+  left: 41.13rem;
   font-size: var(--font-size-16xl);
-}
-.product-description {
-  top: 33.13rem;
-  left: 39.81rem;
 }
 .product-page-child {
   position: absolute;
-  top: calc(50% + 112.5px);
-  right: 7.72rem;
+  top: 46.28rem;
+  left: 86.28rem;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 0.06rem;
+  height: 4.5rem;
+}
+.blank-line {
+  margin: 0;
+}
+.product-description {
+  position: absolute;
+  top: 32rem;
+  left: 41.38rem;
+  line-height: 130%;
+  font-weight: 600;
+}
+.product-page-item {
+  position: absolute;
+  top: 40.97rem;
+  left: 41.34rem;
   border-top: 1px solid var(--color-black);
   box-sizing: border-box;
   width: 40.94rem;
   height: 0.06rem;
 }
-.bits-band-icon {
+.image-5-icon {
   position: absolute;
-  bottom: 1.88rem;
+  top: 57.69rem;
   left: 0;
   width: 26.31rem;
   height: 8.31rem;
   object-fit: cover;
 }
 .base-price,
-.bid-now,
 .highest-bid {
   position: absolute;
-  top: calc(50% - 242px);
-  right: 39rem;
+  top: 18.81rem;
+  left: 41.38rem;
   line-height: 130%;
   font-weight: 600;
 }
-.bid-now,
 .highest-bid {
-  right: 19.88rem;
+  left: 59.63rem;
+}
+.product-page-inner,
+.rectangle-div {
+  position: absolute;
+  top: 46.31rem;
+  left: 40.63rem;
+  background-color: var(--color-gray-100);
+  width: 41.25rem;
+  height: 4.38rem;
+}
+.rectangle-div {
+  top: 23.19rem;
+  cursor: pointer;
+}
+.bid-now,
+.message-with-seller {
+  position: absolute;
+  top: 24.25rem;
+  left: 52.75rem;
+  line-height: 130%;
+  font-weight: 600;
+  color: var(--color-white);
 }
 .bid-now {
-  top: calc(50% + 215px);
-  right: 25.25rem;
-  font-family: var(--font-inter);
-  color: var(--color-white);
+  top: 47.38rem;
+  left: 57.75rem;
+}
+.line-div,
+.product-page-child1 {
+  position: absolute;
+  top: 46.28rem;
+  box-sizing: border-box;
+}
+.line-div {
+  left: 82.16rem;
+  border-right: 1px solid var(--color-black);
+  width: 0.06rem;
+  height: 4.44rem;
+}
+.product-page-child1 {
+  left: 82.22rem;
+  border-top: 1px solid var(--color-black);
+  width: 4.13rem;
+  height: 0.06rem;
+}
+.line-icon {
+  position: absolute;
+  top: 50.56rem;
+  left: 82.25rem;
+  width: 4.06rem;
+  height: 0.13rem;
+}
+.icon-heart {
+  position: absolute;
+  height: 3.98%;
+  width: 3.52%;
+  top: 69.52%;
+  right: 4.6%;
+  bottom: 26.5%;
+  left: 91.88%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
 }
 .image-4-icon {
   position: absolute;
@@ -181,49 +245,7 @@
   overflow: hidden;
   text-align: center;
   font-size: var(--font-size-xl);
-}
-.message-with-seller {
-  position: absolute;
-  top: 1.06rem;
-  left: calc(50% - 143px);
-  line-height: 130%;
-  font-weight: 600;
-}
-.message-button {
-  position: absolute;
-  top: calc(50% - 157px);
-  right: 7.75rem;
-  background-color: var(--color-gray-100);
-  width: 41.63rem;
-  height: 4.38rem;
-  overflow: hidden;
-  cursor: pointer;
-  color: var(--color-white);
-}
-.bid-now1 {
-  position: absolute;
-  top: 1.06rem;
-  left: calc(50% - 57px);
-  line-height: 130%;
-  font-weight: 600;
-}
-.bid-button1,
-.wishlist-button-icon {
-  position: absolute;
-  height: 4.38rem;
-  overflow: hidden;
-}
-.bid-button1 {
-  top: calc(50% + 197px);
-  right: 12.75rem;
-  background-color: var(--color-gray-100);
-  width: 36.63rem;
-  color: var(--color-white);
-}
-.wishlist-button-icon {
-  top: 46.25rem;
-  left: 77.06rem;
-  width: 4.38rem;
+  font-family: var(--font-poppins);
 }
 .product-page {
   position: relative;
@@ -234,5 +256,5 @@
   text-align: left;
   font-size: var(--font-size-9xl);
   color: var(--color-black);
-  font-family: var(--font-poppins);
+  font-family: var(--font-inter);
 }

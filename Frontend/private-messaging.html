@@ -8,25 +8,29 @@
     <link rel="stylesheet" href="./private-messaging.css" />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap"
     />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
     />
   </head>
   <body>
     <div class="private-messaging">
       <div class="private-messaging-child"></div>
-      <img class="image-8-icon" alt="" src="./public/image-8@2x.png" />
+      <img class="image-8-icon2" alt="" src="./public/image-8@2x.png" />
 
       <div class="private-messaging-item"></div>
       <img
-        class="back-button-icon"
+        class="private-messaging-inner"
         alt=""
-        src="./public/back-button.svg"
-        id="backButton"
+        src="./public/rectangle-14.svg"
       />
+
+      <img class="image-10-icon1" alt="" src="./public/image-10@2x.png" />
+
+      <b class="send">Send</b>
+      <img class="frame-icon" alt="" src="./public/frame-1.svg" id="frame" />
 
       <b class="seller-32145">SELLER #32145</b>
       <div class="header4">
@@ -51,17 +55,12 @@
         alt=""
         src="./public/bitsbids-logo-11@2x.png"
       />
-
-      <div class="send-parent">
-        <b class="send">Send</b>
-        <img class="image-10-icon1" alt="" src="./public/image-10@2x.png" />
-      </div>
     </div>
 
     <script>
-      var backButton = document.getElementById("backButton");
-      if (backButton) {
-        backButton.addEventListener("click", function (e) {
+      var frame = document.getElementById("frame");
+      if (frame) {
+        frame.addEventListener("click", function (e) {
           window.location.href = "./product-page.html";
         });
       }

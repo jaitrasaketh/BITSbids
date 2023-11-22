@@ -1,6 +1,14 @@
+.image-9-icon1 {
+  position: absolute;
+  top: 77.44rem;
+  left: 0;
+  width: 26.31rem;
+  height: 8.31rem;
+  object-fit: cover;
+}
 .my-account2 {
   position: absolute;
-  top: calc(50% - 82px);
+  top: 38.94rem;
   left: 5.81rem;
   font-size: var(--font-size-36xl);
   letter-spacing: -0.02em;
@@ -10,7 +18,7 @@
 .image-10-icon {
   position: absolute;
   top: 8.13rem;
-  left: calc(50% - 720px);
+  left: 0;
   width: 90rem;
   height: 24.56rem;
   object-fit: cover;
@@ -18,14 +26,14 @@
 }
 .name {
   position: absolute;
-  top: calc(50% + 36px);
+  top: 45.94rem;
   left: 5.56rem;
-  font-size: var(--font-size-11xl);
+  font-size: var(--font-size-16xl);
   line-height: 130%;
 }
 .profile-page-child {
   position: absolute;
-  top: calc(50% + 80.5px);
+  top: 49.09rem;
   left: 5.78rem;
   border-top: 1px solid var(--color-black);
   box-sizing: border-box;
@@ -36,59 +44,59 @@
 .id-number,
 .wallet-balance {
   position: absolute;
-  top: calc(50% + 124px);
+  top: 51.44rem;
   left: 5.56rem;
-  font-size: var(--font-size-11xl);
+  font-size: var(--font-size-16xl);
   line-height: 130%;
 }
 .wallet-balance {
-  top: calc(50% + 212px);
+  top: 56.94rem;
   left: 5.81rem;
 }
-.profile-page-item {
-  top: calc(50% + 162.5px);
-  left: 5.78rem;
-  border-top: 1px solid var(--color-black);
-  box-sizing: border-box;
-  width: 38.31rem;
-  mix-blend-mode: linear-burn;
-}
-.line-div,
 .profile-page-inner,
 .profile-page-item {
   position: absolute;
   height: 0.06rem;
-}
-.profile-page-inner {
-  top: calc(50% + 250.5px);
-  left: 5.81rem;
-  width: 38.25rem;
   mix-blend-mode: linear-burn;
 }
-.line-div {
+.profile-page-item {
+  top: 54.59rem;
+  left: 5.78rem;
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 38.31rem;
+}
+.profile-page-inner {
+  top: 59.72rem;
+  left: 5.81rem;
+  width: 38.25rem;
+}
+.profile-page-child1 {
+  position: absolute;
   top: 36.34rem;
   left: 0.84rem;
   border-top: 1px solid var(--color-black);
   box-sizing: border-box;
   width: 89.19rem;
+  height: 0.06rem;
 }
 .logout {
   position: absolute;
   top: 0.94rem;
-  left: calc(50% - 43.5px);
+  left: 3.13rem;
   line-height: 130%;
 }
 .logout-button {
   position: absolute;
-  top: calc(50% + 348px);
+  top: 65.81rem;
   left: 5.56rem;
-  border-radius: 100px;
+  border-radius: var(--br-81xl);
   background-color: var(--color-black);
   width: 11.69rem;
   height: 3.81rem;
   overflow: hidden;
   cursor: pointer;
-  font-size: 1.56rem;
+  font-size: var(--font-size-6xl);
   color: var(--color-white);
 }
 .image-4-icon3 {
@@ -166,41 +174,39 @@
   justify-content: center;
 }
 .live-bids-button2,
-.my-account-button2,
-.wishlist-button2 {
+.my-account-button2 {
   position: absolute;
   top: 33.63rem;
-  background-color: var(--color-white);
   width: 8.75rem;
   height: 1.88rem;
-  overflow: hidden;
 }
 .live-bids-button2 {
   left: 9.63rem;
+  background-color: var(--color-white);
+  overflow: hidden;
   cursor: pointer;
 }
-.my-account-button2,
-.wishlist-button2 {
+.my-account-button2 {
   left: 0.88rem;
 }
+.my-account-button2,
+.profile-page,
 .wishlist-button2 {
-  left: 18.38rem;
-  cursor: pointer;
+  background-color: var(--color-white);
+  overflow: hidden;
 }
-.bits-band-icon3 {
+.wishlist-button2 {
   position: absolute;
-  bottom: 1.69rem;
-  left: 0;
-  width: 26.31rem;
-  height: 8.31rem;
-  object-fit: cover;
+  top: 33.63rem;
+  left: 18.38rem;
+  width: 8.75rem;
+  height: 1.88rem;
+  cursor: pointer;
 }
 .profile-page {
   position: relative;
-  background-color: var(--color-white);
   width: 100%;
   height: 88.13rem;
-  overflow: hidden;
   text-align: center;
   font-size: var(--font-size-xl);
   color: var(--color-black);

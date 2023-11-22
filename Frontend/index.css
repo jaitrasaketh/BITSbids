@@ -7,38 +7,47 @@
   height: 5.31rem;
   text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
 }
-.bitsbids-logo-1 {
+.landing-page-child {
   position: absolute;
-  top: 7.81rem;
-  left: 6.88rem;
-  width: 31.75rem;
-  height: 31.94rem;
-  object-fit: cover;
-}
-.image-9-icon,
-.login-with-google {
-  position: absolute;
-  top: 0.75rem;
-  left: 13.13rem;
+  top: 26.5rem;
+  left: 62.06rem;
+  background-color: var(--color-gainsboro-200);
+  width: 0.06rem;
+  height: 0.38rem;
   cursor: pointer;
 }
+.landing-page-item {
+  position: absolute;
+  top: 24.88rem;
+  left: 44.75rem;
+  width: 28.63rem;
+  height: 5.19rem;
+  cursor: pointer;
+}
+.login-with-google {
+  position: absolute;
+  top: 25.81rem;
+  left: 52.56rem;
+  font-size: var(--font-size-11xl);
+  cursor: pointer;
+}
+.bitsbids-logo-1,
 .image-9-icon {
-  top: 0.31rem;
-  left: 6.94rem;
-  width: 3.63rem;
-  height: 3.72rem;
+  position: absolute;
   object-fit: cover;
 }
-.bid-button {
-  position: absolute;
-  top: calc(50% + 45px);
-  right: 12.63rem;
-  background-color: var(--color-white);
-  box-shadow: 3px 7px 4px rgba(0, 0, 0, 0.25);
-  width: 36.63rem;
-  height: 4.38rem;
-  overflow: hidden;
-  font-size: var(--font-size-11xl);
+.image-9-icon {
+  top: 25.38rem;
+  left: 46.38rem;
+  width: 3.63rem;
+  height: 3.72rem;
+  cursor: pointer;
+}
+.bitsbids-logo-1 {
+  top: 7.81rem;
+  left: 6.88rem;
+  width: 31.25rem;
+  height: 31.25rem;
 }
 .landing-page {
   position: relative;

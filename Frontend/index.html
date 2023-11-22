@@ -8,36 +8,56 @@
     <link rel="stylesheet" href="./index.css" />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700;800&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;800&display=swap"
     />
     <link
       rel="stylesheet"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
     />
   </head>
   <body>
     <div class="landing-page">
       <div class="log-in">Log In</div>
+      <div class="landing-page-child" id="rectangle"></div>
+      <img
+        class="landing-page-item"
+        alt=""
+        src="./public/rectangle-7.svg"
+        id="rectangle1"
+      />
+
+      <div class="login-with-google" id="loginWithGoogle">
+        Login with Google
+      </div>
+      <img
+        class="image-9-icon"
+        alt=""
+        src="./public/image-9@2x.png"
+        id="image9"
+      />
+
       <img
         class="bitsbids-logo-1"
         alt=""
         src="./public/bitsbids-logo-1@2x.png"
       />
-
-      <div class="bid-button">
-        <div class="login-with-google" id="loginWithGoogle">
-          Login with Google
-        </div>
-        <img
-          class="image-9-icon"
-          alt=""
-          src="./public/image-9@2x.png"
-          id="image9"
-        />
-      </div>
     </div>
 
     <script>
+      var rectangle = document.getElementById("rectangle");
+      if (rectangle) {
+        rectangle.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+      
+      var rectangle1 = document.getElementById("rectangle1");
+      if (rectangle1) {
+        rectangle1.addEventListener("click", function (e) {
+          window.location.href = "./homepage.html";
+        });
+      }
+      
       var loginWithGoogle = document.getElementById("loginWithGoogle");
       if (loginWithGoogle) {
         loginWithGoogle.addEventListener("click", function (e) {

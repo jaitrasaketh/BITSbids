@@ -1,0 +1,259 @@
+.image-11-icon1 {
+  object-fit: cover;
+  opacity: .4;
+  width: 90rem;
+  height: 24.56rem;
+  position: absolute;
+  top: 8.13rem;
+  left: 0;
+}
+
+.live-bids-child {
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 89.19rem;
+  height: .06rem;
+  position: absolute;
+  top: 36.09rem;
+  left: .41rem;
+}
+
+.heirloom-tomato1 {
+  top: 1.5rem;
+  left: 11.5rem;
+}
+
+.div5, .heirloom-tomato1, .lb3 {
+  font-weight: 600;
+  line-height: 130%;
+  position: absolute;
+}
+
+.div5 {
+  text-align: right;
+  top: 1.5rem;
+  right: 1.5rem;
+}
+
+.lb3 {
+  top: 3.38rem;
+  left: 11.5rem;
+}
+
+.ed-o-neil-avvdzlhdowa-unsplash-icon1 {
+  object-fit: cover;
+  width: 10rem;
+  height: calc(100% + 1px);
+  max-height: 100%;
+  position: absolute;
+  top: 0;
+  bottom: -.06rem;
+  left: 0;
+}
+
+.products3, .products4 {
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-100);
+  border: 2px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  cursor: pointer;
+  font-family: var(--font-inter);
+  width: calc(100% - 192px);
+  height: 9.94rem;
+  right: 6rem;
+  overflow: hidden;
+}
+
+.products3 {
+  position: absolute;
+  top: 48.56rem;
+  left: 6rem;
+}
+
+.products4 {
+  top: 60.44rem;
+}
+
+.live-bids2, .products4, .products5 {
+  position: absolute;
+  left: 6rem;
+}
+
+.products5 {
+  border-radius: var(--br-5xl);
+  background-color: var(--color-whitesmoke-100);
+  border: 2px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  cursor: pointer;
+  font-family: var(--font-inter);
+  width: calc(100% - 192px);
+  height: 9.94rem;
+  top: 72.31rem;
+  right: 6rem;
+  overflow: hidden;
+}
+
+.live-bids2 {
+  letter-spacing: -.02em;
+  line-height: 120%;
+  bottom: 1rem;
+}
+
+.divider1 {
+  border-top: 2px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  width: calc(100% - 190px);
+  height: .13rem;
+  position: absolute;
+  bottom: -.06rem;
+  left: 5.94rem;
+  right: 5.94rem;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.page-heading1 {
+  background-color: var(--color-white);
+  font-size: var(--font-size-36xl);
+  width: 100%;
+  height: 9.31rem;
+  position: absolute;
+  top: 37.88rem;
+  left: 0;
+  right: 0;
+  overflow: hidden;
+}
+
+.live-bids3 {
+  justify-content: center;
+  align-items: center;
+  width: calc(100% - 22px);
+  line-height: 130%;
+  display: flex;
+  position: absolute;
+  top: .13rem;
+  left: .69rem;
+}
+
+.live-bids-button1 {
+  background-color: var(--color-white);
+  text-align: center;
+  width: 8.75rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 33.5rem;
+  left: 9.19rem;
+  overflow: hidden;
+}
+
+.image-8-icon1 {
+  object-fit: cover;
+  width: 26.31rem;
+  height: 8.31rem;
+  position: absolute;
+  top: 98.13rem;
+  left: 0;
+}
+
+.my-account-button1, .wishlist-button1 {
+  background-color: var(--color-white);
+  text-align: center;
+  width: 8.75rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 33.5rem;
+  left: .44rem;
+  overflow: hidden;
+}
+
+.wishlist-button1 {
+  cursor: pointer;
+  left: 17.94rem;
+}
+
+.image-4-icon2 {
+  object-fit: cover;
+  width: 5.63rem;
+  height: 5.63rem;
+  position: absolute;
+  top: 1.25rem;
+  left: 3.75rem;
+}
+
+.profile-button-icon2 {
+  cursor: pointer;
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  overflow: hidden;
+}
+
+.home2 {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: .69rem;
+}
+
+.home-button2 {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  overflow: hidden;
+}
+
+.sell2 {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: 1.25rem;
+}
+
+.sell-button2 {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 72.5rem;
+  overflow: hidden;
+}
+
+.bitsbids-logo-13 {
+  object-fit: cover;
+  width: 5.31rem;
+  height: 5.31rem;
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+}
+
+.header2 {
+  text-align: center;
+  width: 90rem;
+  height: 8.13rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.live-bids1 {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+  width: 100%;
+  height: 108.75rem;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=live-bids.03751044.css.map */

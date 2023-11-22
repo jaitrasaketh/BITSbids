@@ -1,7 +1,7 @@
 .image-11-icon1 {
   position: absolute;
   top: 8.13rem;
-  left: calc(50% - 720px);
+  left: 0;
   width: 90rem;
   height: 24.56rem;
   object-fit: cover;
@@ -19,7 +19,6 @@
 .heirloom-tomato1 {
   top: 1.5rem;
   left: 11.5rem;
-  font-family: var(--font-poppins);
 }
 .div5,
 .heirloom-tomato1,
@@ -124,9 +123,7 @@
   align-items: center;
   justify-content: center;
 }
-.live-bids-button1,
-.my-account-button1,
-.wishlist-button1 {
+.live-bids-button1 {
   position: absolute;
   top: 33.5rem;
   left: 9.19rem;
@@ -136,9 +133,24 @@
   overflow: hidden;
   text-align: center;
 }
+.image-8-icon1 {
+  position: absolute;
+  top: 98.13rem;
+  left: 0;
+  width: 26.31rem;
+  height: 8.31rem;
+  object-fit: cover;
+}
 .my-account-button1,
 .wishlist-button1 {
+  position: absolute;
+  top: 33.5rem;
   left: 0.44rem;
+  background-color: var(--color-white);
+  width: 8.75rem;
+  height: 1.88rem;
+  overflow: hidden;
+  text-align: center;
 }
 .wishlist-button1 {
   left: 17.94rem;
@@ -209,14 +221,6 @@
   height: 8.13rem;
   overflow: hidden;
   text-align: center;
-}
-.bits-band-icon2 {
-  position: absolute;
-  bottom: 2.63rem;
-  left: 0;
-  width: 26.31rem;
-  height: 8.31rem;
-  object-fit: cover;
 }
 .live-bids1 {
   position: relative;

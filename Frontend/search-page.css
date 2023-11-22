@@ -45,7 +45,7 @@
   font-size: var(--font-size-xl);
   letter-spacing: -0.02em;
   line-height: 120%;
-  color: rgba(0, 0, 0, 0.98);
+  color: var(--color-gray-100);
 }
 .page-heading2 {
   position: absolute;
@@ -149,7 +149,9 @@
   max-height: 100%;
   object-fit: cover;
 }
-.products6 {
+.products6,
+.products7 {
+  position: absolute;
   width: calc(100% - 1045px);
   top: 18.81rem;
   right: 59.31rem;
@@ -162,34 +164,13 @@
   overflow: hidden;
   font-family: var(--font-inter);
 }
-.lb7,
-.products6,
 .products7 {
-  position: absolute;
-}
-.lb7 {
-  bottom: 4.25rem;
-  left: 1.5rem;
-  line-height: 130%;
-  font-weight: 600;
-  font-family: var(--font-inter);
-  color: var(--color-darkolivegreen);
-}
-.products7 {
-  width: calc(100% - 1045px);
-  top: 18.81rem;
   right: 32.63rem;
   left: 32.69rem;
-  border-radius: var(--br-5xl);
-  background-color: var(--color-whitesmoke-100);
-  border: 2px solid var(--color-gainsboro-100);
-  box-sizing: border-box;
-  height: 27.75rem;
-  overflow: hidden;
 }
-.bits-band-icon5 {
+.image-8-icon3 {
   position: absolute;
-  bottom: 1.63rem;
+  top: 53.13rem;
   left: 0;
   width: 26.31rem;
   height: 8.31rem;

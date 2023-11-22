@@ -1,0 +1,231 @@
+.sell5 {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  width: 33.88rem;
+  font-size: 4rem;
+  line-height: 130%;
+  display: flex;
+  position: absolute;
+  top: calc(50% - 275px);
+  left: 28.06rem;
+}
+
+.image-5-icon1 {
+  object-fit: cover;
+  width: 26.31rem;
+  height: 8.31rem;
+  position: absolute;
+  top: 110.06rem;
+  left: 0;
+}
+
+.sell-page-child, .sell-page-item {
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 44.38rem;
+  height: .06rem;
+  position: absolute;
+  top: 58.78rem;
+  left: 33.97rem;
+}
+
+.sell-page-item {
+  top: 66.34rem;
+}
+
+.sell-page-child1, .sell-page-inner {
+  width: 44.31rem;
+  height: .06rem;
+  position: absolute;
+  top: 73.91rem;
+  left: 34rem;
+}
+
+.sell-page-child1 {
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 44.38rem;
+  top: 81.84rem;
+  left: 33.97rem;
+}
+
+.sell-page-child2 {
+  width: 44.31rem;
+  height: .06rem;
+  position: absolute;
+  top: 91.09rem;
+  left: 34rem;
+}
+
+.image-7-icon {
+  object-fit: cover;
+  opacity: .4;
+  width: 93.56rem;
+  height: 30.63rem;
+  position: absolute;
+  top: 8.13rem;
+  left: 0;
+}
+
+.sell-page-child3 {
+  background-color: var(--color-white);
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  border-radius: 20px;
+  width: 21.06rem;
+  height: 25.63rem;
+  position: absolute;
+  top: 56.88rem;
+  left: 7rem;
+}
+
+.upload {
+  font-size: var(--font-size-11xl);
+  width: 9.19rem;
+  height: 3.25rem;
+  display: inline-block;
+  position: absolute;
+  top: 68.13rem;
+  left: 12.94rem;
+}
+
+.rectangle-icon {
+  width: 44.81rem;
+  height: 5.69rem;
+  position: absolute;
+  top: 95.88rem;
+  left: 33.75rem;
+}
+
+.span {
+  color: var(--color-orangered);
+}
+
+.product-images-container, .product-name-container {
+  position: absolute;
+  top: 51.88rem;
+  left: 34rem;
+}
+
+.product-images-container {
+  left: 10.75rem;
+}
+
+.time-limit-container {
+  position: absolute;
+  top: 59.13rem;
+  left: 34rem;
+}
+
+.increments, .product-name-container1 {
+  position: absolute;
+  top: 66.88rem;
+  left: 34rem;
+}
+
+.product-name-container1 {
+  top: 74.44rem;
+}
+
+.product-name-container2, .submit {
+  position: absolute;
+  top: 81.88rem;
+  left: 34rem;
+}
+
+.submit {
+  font-size: var(--font-size-11xl);
+  color: var(--color-white);
+  top: 97.06rem;
+  left: 52.81rem;
+}
+
+.image-4-icon5 {
+  object-fit: cover;
+  width: 5.63rem;
+  height: 5.63rem;
+  position: absolute;
+  top: 1.25rem;
+  left: 3.75rem;
+}
+
+.profile-button-icon5 {
+  cursor: pointer;
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  overflow: hidden;
+}
+
+.home5 {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: .69rem;
+}
+
+.home-button5 {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  overflow: hidden;
+}
+
+.sell6 {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: 1.25rem;
+}
+
+.sell-button5 {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 72.5rem;
+  overflow: hidden;
+}
+
+.bitsbids-logo-16 {
+  object-fit: cover;
+  width: 5.31rem;
+  height: 5.31rem;
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+}
+
+.header5 {
+  text-align: center;
+  font-size: var(--font-size-xl);
+  width: 90rem;
+  height: 8.13rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.sell-page {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-poppins);
+  width: 100%;
+  height: 120.63rem;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=sell-page.d2f41e4d.css.map */

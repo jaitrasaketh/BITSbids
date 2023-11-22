@@ -1,0 +1,283 @@
+.noonbrew-zicb4-ekmak-unsplash-icon {
+  object-fit: cover;
+  width: 100%;
+  max-width: 100%;
+  height: calc(100% - 148px);
+  max-height: 100%;
+  position: absolute;
+  inset: 0 0 9.25rem;
+  overflow: hidden;
+}
+
+.ginger-child, .ginger-item {
+  width: 23.38rem;
+  height: 4.06rem;
+  position: absolute;
+}
+
+.ginger-child {
+  background-color: var(--color-gainsboro-200);
+  top: 31.56rem;
+  left: 4.75rem;
+}
+
+.ginger-item {
+  background-color: #696464;
+  top: 30.25rem;
+  left: 3.19rem;
+}
+
+.time-left {
+  line-height: 130%;
+  position: absolute;
+  top: 31.19rem;
+  left: 4.25rem;
+}
+
+.ginger {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-whitesmoke-100);
+  border: 2px solid var(--color-gainsboro-100);
+  box-sizing: border-box;
+  color: var(--color-white);
+  width: calc(100% - 964px);
+  height: 37.63rem;
+  position: absolute;
+  top: 14.31rem;
+  left: 2.94rem;
+  right: 57.31rem;
+  overflow: hidden;
+}
+
+.div {
+  color: var(--color-darkolivegreen);
+  bottom: 46.81rem;
+  left: 51.88rem;
+}
+
+.div, .div1, .organic-ginger {
+  font-weight: 600;
+  line-height: 130%;
+  position: absolute;
+}
+
+.div1 {
+  color: var(--color-darkolivegreen);
+  bottom: 46.81rem;
+  left: 70.56rem;
+}
+
+.organic-ginger {
+  font-size: var(--font-size-16xl);
+  bottom: 49.69rem;
+  left: 41.13rem;
+}
+
+.product-page-child {
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: .06rem;
+  height: 4.5rem;
+  position: absolute;
+  top: 46.28rem;
+  left: 86.28rem;
+}
+
+.blank-line {
+  margin: 0;
+}
+
+.product-description {
+  font-weight: 600;
+  line-height: 130%;
+  position: absolute;
+  top: 32rem;
+  left: 41.38rem;
+}
+
+.product-page-item {
+  border-top: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 40.94rem;
+  height: .06rem;
+  position: absolute;
+  top: 40.97rem;
+  left: 41.34rem;
+}
+
+.image-5-icon {
+  object-fit: cover;
+  width: 26.31rem;
+  height: 8.31rem;
+  position: absolute;
+  top: 57.69rem;
+  left: 0;
+}
+
+.base-price, .highest-bid {
+  font-weight: 600;
+  line-height: 130%;
+  position: absolute;
+  top: 18.81rem;
+  left: 41.38rem;
+}
+
+.highest-bid {
+  left: 59.63rem;
+}
+
+.product-page-inner, .rectangle-div {
+  background-color: var(--color-gray-100);
+  width: 41.25rem;
+  height: 4.38rem;
+  position: absolute;
+  top: 46.31rem;
+  left: 40.63rem;
+}
+
+.rectangle-div {
+  cursor: pointer;
+  top: 23.19rem;
+}
+
+.bid-now, .message-with-seller {
+  color: var(--color-white);
+  font-weight: 600;
+  line-height: 130%;
+  position: absolute;
+  top: 24.25rem;
+  left: 52.75rem;
+}
+
+.bid-now {
+  top: 47.38rem;
+  left: 57.75rem;
+}
+
+.line-div, .product-page-child1 {
+  box-sizing: border-box;
+  position: absolute;
+  top: 46.28rem;
+}
+
+.line-div {
+  border-right: 1px solid var(--color-black);
+  width: .06rem;
+  height: 4.44rem;
+  left: 82.16rem;
+}
+
+.product-page-child1 {
+  border-top: 1px solid var(--color-black);
+  width: 4.13rem;
+  height: .06rem;
+  left: 82.22rem;
+}
+
+.line-icon {
+  width: 4.06rem;
+  height: .13rem;
+  position: absolute;
+  top: 50.56rem;
+  left: 82.25rem;
+}
+
+.icon-heart {
+  width: 3.52%;
+  max-width: 100%;
+  height: 3.98%;
+  max-height: 100%;
+  position: absolute;
+  inset: 69.52% 4.6% 26.5% 91.88%;
+  overflow: hidden;
+}
+
+.image-4-icon {
+  object-fit: cover;
+  width: 5.63rem;
+  height: 5.63rem;
+  position: absolute;
+  top: 1.25rem;
+  left: 3.75rem;
+}
+
+.profile-button-icon {
+  cursor: pointer;
+  width: 5rem;
+  height: 5rem;
+  position: absolute;
+  top: 1.56rem;
+  left: 81.88rem;
+  overflow: hidden;
+}
+
+.home {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: .69rem;
+}
+
+.home-button {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 65.88rem;
+  overflow: hidden;
+}
+
+.sell {
+  line-height: 130%;
+  position: absolute;
+  top: .13rem;
+  left: 1.25rem;
+}
+
+.sell-button {
+  background-color: var(--color-white);
+  cursor: pointer;
+  width: 5rem;
+  height: 1.88rem;
+  position: absolute;
+  top: 3.13rem;
+  left: 72.5rem;
+  overflow: hidden;
+}
+
+.bitsbids-logo-11 {
+  object-fit: cover;
+  width: 5.31rem;
+  height: 5.31rem;
+  position: absolute;
+  top: 1.38rem;
+  left: 11.25rem;
+}
+
+.header {
+  text-align: center;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-poppins);
+  width: 90rem;
+  height: 8.13rem;
+  position: absolute;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+}
+
+.product-page {
+  background-color: var(--color-white);
+  text-align: left;
+  font-size: var(--font-size-9xl);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+  width: 100%;
+  height: 67.88rem;
+  position: relative;
+  overflow: hidden;
+}
+
+/*# sourceMappingURL=product-page.a13842bf.css.map */
