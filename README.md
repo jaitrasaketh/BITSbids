@@ -26,8 +26,8 @@ Every user on BITSbids is both a buyer and a seller, promoting a dynamic and eng
 Getting Started
 Prerequisites
 
-Node.js
-MongoDB
+Angular
+MySQL
 
 Installation
 Clone the repository:
