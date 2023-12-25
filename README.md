@@ -31,7 +31,7 @@ MySQL
 
 Installation  
 Clone the repository:  
-git clone https://github.com/your-username/BITSbids.git  
+git clone https://github.com/jaitrasaketh/BITSbids.git  
 Install dependencies:  
 npm install  
 Configure the BITS Email SSO, MySQL, and other settings in the configuration file.  
