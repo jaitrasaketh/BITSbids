@@ -34,7 +34,7 @@ Clone the repository:
 git clone https://github.com/your-username/BITSbids.git
 Install dependencies:
 npm install
-Configure the BITS Email SSO and MongoDB settings in the configuration file.
+Configure the BITS Email SSO, MySQL, and other settings in the configuration file.
 Run the application:
 npm start
 Visit http://localhost:3000 in your browser to access BITSbids.
