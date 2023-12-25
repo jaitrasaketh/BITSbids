@@ -41,9 +41,9 @@ Visit http://localhost:3000 in your browser to access BITSbids.
 
 Contributors
 
-Jeeru Harshith Reddy \n
-Sri Jaitra Saketh Goparaju \n
-Venkata Saketh Dakuri \n
+Jeeru Harshith Reddy 
+Sri Jaitra Saketh Goparaju 
+Venkata Saketh Dakuri 
 R V S Aashrey Kumar
 
 
