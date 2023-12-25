@@ -41,10 +41,10 @@ Visit http://localhost:3000 in your browser to access BITSbids.
 
 Contributors
 
-Jeeru Harshith Reddy 
-Sri Jaitra Saketh Goparaju 
-Venkata Saketh Dakuri 
-R V S Aashrey Kumar
+@reddy-j-harshith
+@jaitrasaketh
+@VenkataSakethDakuri
+@Aashrey2407
 
 
 
