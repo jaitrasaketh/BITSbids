@@ -23,21 +23,21 @@ Each product listing includes detailed information such as pictures, possible sh
 7. Dual Role for Users
 Every user on BITSbids is both a buyer and a seller, promoting a dynamic and engaging marketplace experience.
 
-Getting Started
-Prerequisites
+Getting Started  
+Prerequisites  
 
-Angular
-MySQL
+Angular  
+MySQL  
 
-Installation
-Clone the repository:
-git clone https://github.com/your-username/BITSbids.git
-Install dependencies:
-npm install
-Configure the BITS Email SSO, MySQL, and other settings in the configuration file.
-Run the application:
-npm start
-Visit http://localhost:3000 in your browser to access BITSbids.
+Installation  
+Clone the repository:  
+git clone https://github.com/your-username/BITSbids.git  
+Install dependencies:  
+npm install  
+Configure the BITS Email SSO, MySQL, and other settings in the configuration file.  
+Run the application:  
+npm start  
+Visit http://localhost:3000 in your browser to access BITSbids.  
 
 ##Contributors
 
