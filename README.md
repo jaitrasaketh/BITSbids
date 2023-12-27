@@ -37,7 +37,6 @@ npm install
 Configure the BITS Email SSO, MySQL, and other settings in the configuration file.  
 Run the application:  
 npm start  
-Visit http://localhost:3000 in your browser to access BITSbids.  
 
 ##Contributors
 
